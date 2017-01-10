@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "resetMarixWithBonderIJ:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(v+r)">
+            </PersistentString>
+            <PersistentString
+               value = "*(v+1)">
+            </PersistentString>
+            <PersistentString
+               value = "*(A+r*rows + j)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "calculateSubMatrix:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(A+(i -1+rSub)*rows+cSub)">
+            </PersistentString>
+            <PersistentString
+               value = "*(A+(i+rSub)*rows+cSub)">
+            </PersistentString>
+            <PersistentString
+               value = "*(v+rSub)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
